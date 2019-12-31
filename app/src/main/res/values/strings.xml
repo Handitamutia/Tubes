@@ -1,0 +1,9 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Login</string>
+    <string name="desc_login">Silahkan Login Terlebih Dahulu!</string>
+    <string name="editEmail">E-Mail</string>
+    <string name="editPassword" tools:ignore="ExtraTranslation">Password</string>
+    <string name="editNama">Nama</string>
+    <string name="btnLogin">LOGIN</string>
+    <string name="btnSignup">SIGNUP</string>
+</resources>
